@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Milan</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-- 🔭 I’m currently working on **Web Scraping Using Beautyful Soup**
+- 🔭 I’m currently working on **Web Scraping Using Beautiful Soup Research Paper**
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **NEXT JS**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
@@ -11,9 +11,11 @@
 
 - 📫 How to reach me **milangahlyan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Wlv2k_PisRwcQz2n8LXJRSYoDrKxPWf8/view?usp=sharing](https://drive.google.com/file/d/1Wlv2k_PisRwcQz2n8LXJRSYoDrKxPWf8/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1Wlv2k_PisRwcQz2n8LXJRSYoDrKxPWf8/view?usp=sharing](https://drive.google.com/file/d/1F3FjCUW8xNJsdq5V_DctLlHXs6ImryWX/view?usp=sharing)
 
-- ⚡ Fun fact **I work great both individually and in team**
+- 📫 My Website **[milangahlyan@gmail.com](https://milangahlyan.netlify.app/)**
+
+- ⚡ Fun fact **I work great both individually and in a team**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
