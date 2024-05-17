@@ -13,7 +13,7 @@
 
 - 📄 My Resume [https://drive.google.com/file/d/1Wlv2k_PisRwcQz2n8LXJRSYoDrKxPWf8/view?usp=sharing](https://drive.google.com/file/d/1F3FjCUW8xNJsdq5V_DctLlHXs6ImryWX/view?usp=sharing)
 
-- 📫 My Website **[milangahlyan@gmail.com](https://milangahlyan.netlify.app/)**
+- 📫 My Website **[milangahlyan.com](https://milangahlyan.netlify.app/)**
 
 - ⚡ Fun fact **I work great both individually and in a team**
 
