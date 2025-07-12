@@ -9,11 +9,9 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 👨‍💻 My Portfolio Website [https://milangahlyan.netlify.app/](https://milangahlyan.netlify.app/)
+- 👨‍💻 My Portfolio Website [https://milangahlyan.framer.website/](https://milangahlyan.framer.website/)
 
 - 📫 How to reach me **milangahlyan@gmail.com**
-
-- 📄 My Resume [https://drive.google.com/file/d/1NsJFPmM_EXMrYHxzMtAvswDJxE5Wy1Kh/view?usp=sharing](https://drive.google.com/file/d/1NsJFPmM_EXMrYHxzMtAvswDJxE5Wy1Kh/view?usp=sharing)
 
 - ⚡ Fun fact **I work great both individually and in a team.**
 
