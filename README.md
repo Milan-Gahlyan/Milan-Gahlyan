@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=milan-gahlyan" alt="milan-gahlyan" /></a> </p>
-
 - 🔭 I’m currently working on **AI Saas Project**
 
 - 🌱 I’m currently learning **Backend Technologies**
@@ -16,12 +14,6 @@
 - 📫 How to reach me **milangahlyan@gmail.com**
 
 - 📄 Know about my experiences [RESUME](https://drive.google.com/file/d/1tM2iUPvy6w5v0WkJRK655WxHsEXKNngZ/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/milan-gahlyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="milan-gahlyan" height="30" width="40" /></a>
-<a href="https://www.behance.net/milan_gahlyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="milan_gahlyan" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
